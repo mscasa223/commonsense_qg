@@ -1,0 +1,9 @@
+data/
+*.json
+*.csv
+*.xml
+*.jsonl
+*.pt
+cache/
+__pycache__/
+.vscode/
