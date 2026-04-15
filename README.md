@@ -31,5 +31,6 @@ Generated outputs are evaluated on both lexical overlap and semantic similarity 
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository:**
+```bash 
 git clone https://github.com/mscasa223/commonsense_qg.git
 cd commonsense_qg
